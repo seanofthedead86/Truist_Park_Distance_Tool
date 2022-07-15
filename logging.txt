@@ -1,0 +1,4 @@
+2022-07-13 18:18:06.048877 - Distance in Feet: 37.17, Exit Velo: 80.0, Launch Angle: 0.0, Pitch: Four Seam Fastball
+2022-07-13 18:18:27.919342 - Distance in Feet: 328.45, Exit Velo: 91.0, Launch Angle: 24.9, Pitch: Split Finger
+2022-07-14 17:33:32.663368 - Distance in Feet: 37.17, Exit Velo: 80.0, Launch Angle: 0.0, Pitch: Four Seam Fastball
+2022-07-14 18:49:09.604667 - Distance in Feet: 37.17, Exit Velo: 80.0, Launch Angle: 0.0, Pitch: Four Seam Fastball
